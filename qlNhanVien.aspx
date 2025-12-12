@@ -7,7 +7,6 @@
     <title>Quản lý nhân viên</title>
 
     <style>
-        /* ... Các CSS styling của bạn ... */
         body { font-family: Arial; }
         .page-title { text-align: center; font-size: 26px; font-weight: bold; margin-top: 20px; }
         .grid-wrapper { width: 900px; margin: auto; margin-top: 20px; }
